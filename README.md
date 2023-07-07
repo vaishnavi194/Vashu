@@ -1,2 +1,2 @@
 # Data Analyst
-Assignment of Data Analyst in python code
+Assignment of Data Analyst
